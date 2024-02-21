@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web development and cyber security
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on projects that'll improve my knowledge
-- 📫 How to reach me linkedin (https://www.linkedin.com/mercy-ibitayo )
 - 😄 Pronouns: she
 - ⚡ Fun fact: I'm trying my best
 
