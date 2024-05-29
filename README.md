@@ -2,6 +2,12 @@
 <body>
 <h1>Hi, I’m Ibitayo Mercy</h1>
 
+
+<style>
+ body{
+  background-color:black;
+ }
+</style>
 </body>
 </html>
 
